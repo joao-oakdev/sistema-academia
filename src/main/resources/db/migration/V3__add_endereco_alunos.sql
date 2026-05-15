@@ -1,0 +1,2 @@
+ALTER TABLE alunos
+    ALTER COLUMN endereco TYPE VARCHAR(150);
